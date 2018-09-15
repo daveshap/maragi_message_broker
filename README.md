@@ -1,6 +1,13 @@
-# maragi_rabbit
+# MARAGI RabbitMQ Container
 
-RabbitMQ definitions for MARAGI
+Broker definitions and Docker launch script.
+
+# Instructions
+
+1. Install Docker
+2. Run rabbit.sh
+3. Log into RabbitMQ instance and apply JSON definitions file
+4. Start other MARAGI services
 
 # Exchanges
 
